@@ -1,2 +1,2 @@
-https://nft-project-sable.vercel.app/nft/shandyapes
+https://nft-project-sable.vercel.app/nft/shandy-apes
 nft/shandy-apes
