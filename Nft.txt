@@ -1,1 +1,2 @@
 https://nft-project-sable.vercel.app/nft/shandyapes
+nft/nftdroppage
